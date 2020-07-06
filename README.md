@@ -19,3 +19,9 @@
 * Few useful keyboard shortcuts
 * VLOOKUP (exact match)
 * Pivot table and chart
+
+### References
+* [Covid-19 data set](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+* [Broadway data set](https://corgis-edu.github.io/corgis/csv/broadway/)
+
+###### Workshop content creation: Cindy Cheng, QCL Grad Fellow, June 6, 2020
