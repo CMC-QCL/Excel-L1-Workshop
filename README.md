@@ -24,4 +24,4 @@
 * [Covid-19 data set](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 * [Broadway data set](https://corgis-edu.github.io/corgis/csv/broadway/)
 
-###### _Workshop creation by Cindy Cheng, QCL Grad Fellow on July 6, 2020_
+###### _Workshop creation done by Cindy Cheng, QCL Grad Fellow on July 6, 2020_
