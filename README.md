@@ -2,7 +2,7 @@
 
 ### Summary
 
-#### Microsoft Excel is a spreadsheet program that is part of the Microsoft Office Suite.  It is useful for calcuations, making simple charts and data recording for different business processes.
+#### Microsoft Excel is a spreadsheet program that is part of the Microsoft Office Suite.  It is useful for calculations, making simple charts and data recording for different business processes.
 
 ### Purpose
 
